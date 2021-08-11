@@ -1,0 +1,31 @@
+{
+  "name": "elo_rating",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tshirai/elo_rating.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tshirai/elo_rating/issues"
+  },
+  "homepage": "https://github.com/tshirai/elo_rating#readme",
+  "devDependencies": {
+    "@types/cheerio": "^0.22.30",
+    "@types/node": "^16.4.13",
+    "@types/superagent": "^4.1.12",
+    "typescript": "^4.3.5"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.10",
+    "superagent": "^6.1.0",
+    "ts-node": "^10.2.0"
+  }
+}
