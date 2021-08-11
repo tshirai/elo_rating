@@ -1,0 +1,6 @@
+== Elo rating caluculator
+
+=== Data
+* 将棋
+** https://www.shogi.or.jp/game/result/ から取得
+** このページに勝敗が記載されていない棋戦は除く
